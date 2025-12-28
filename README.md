@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 👋
+
+I am a 2nd year PhD student at the Information Security Group at Royal Holloway University of London. I am currently working on the security, privacy & accessibility of Health & Assistive Internet of Things (HAIoT), and their accompanying smartphone applications.
 
 <!--
 **Stephen-Cook341/Stephen-Cook341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
