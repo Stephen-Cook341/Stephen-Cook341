@@ -1,6 +1,6 @@
 ## About me 👋
 
-I am a 2nd year PhD student at the Information Security Group at Royal Holloway University of London. I am currently working on the security, privacy & accessibility of Health & Assistive Internet of Things (HAIoT), and their accompanying smartphone applications.
+I am a 2nd year PhD student at [Royal Holloway University of London Information Security Group](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/information-security). I am currently working on the security, privacy & accessibility of Health & Assistive Internet of Things (HAIoT), and their accompanying smartphone applications.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,sqlite,cpp,cs,java,python,docker,arch,kali,windows,vscodium)](https://skillicons.dev)
