@@ -3,7 +3,7 @@
 I am a 2nd year PhD student at [Royal Holloway University of London Information Security Group](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/information-security). I am currently working on the security, privacy and accessibility of Assistive Technologies and Health IoT.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,sqlite,cpp,cs,java,python,docker,arch,kali,windows,vscodium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,sqlite,cpp,cs,java,kotlin,python,pytorch,tensorflow,latex,md,docker,linux,ubuntu,arch,kali,windows,vscodium&perline=8)](https://skillicons.dev)
 
 
 
